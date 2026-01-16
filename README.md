@@ -42,3 +42,7 @@ src/main/java
      ├── entity
      ├── security
      └── config
+
+     <img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/17a27e3f-323a-4be2-8c42-04d3d2d170bb" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c477afbc-fdf4-4f88-8ce8-7f5d17d4d3ee" />
+
